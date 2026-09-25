@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá, eu sou Juan Pablo 👋
 
-<!--
-**juanpablooliveradeazevedo/juanpablooliveradeazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Python | Desenvolvimento de Software | Automação | TI  
+📍 São Paulo, SP, Brasil  
 
-Here are some ideas to get you started:
+Atualmente estou construindo minha formação em tecnologia por meio da graduação em Análise e Desenvolvimento de Sistemas, experiência prática em suporte técnico e desenvolvimento de projetos próprios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em conhecer diferentes áreas de tecnologia e ampliar minha base em desenvolvimento de software, automação, banco de dados, redes, Linux e segurança da informação.
+
+## 🛠️ Tecnologias e conhecimentos
+
+- Python
+- Git e GitHub
+- Windows
+- PowerShell
+- PyQt6
+- SQLite
+- Redes e infraestrutura de TI
+
+## 🚀 Projetos em destaque
+
+### Configurador TI
+
+Aplicação desktop em desenvolvimento voltada para diagnóstico, inventário, manutenção e administração de computadores Windows.
+
+Tecnologias utilizadas:
+
+`Python` `PyQt6` `PowerShell` `WMI/CIM` `SQLite` `PyInstaller`
+
+O projeto é desenvolvido de forma incremental, envolvendo definição de requisitos, testes, validação funcional, documentação e controle de versões.
+
+### AgroControl
+
+Projeto acadêmico desenvolvido em Python durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+Utilizado também para prática de Git, GitHub e gerenciamento de configuração de software.
+
+## 📚 Atualmente estudando
+
+- Análise e Desenvolvimento de Sistemas
+- Python
+- Desenvolvimento de Software
+- Banco de Dados
+- Linux
+- Redes
+- Segurança da Informação
+
+## 📫 Contato
+
+- LinkedIn: [Juan Pablo Oliveira de Azevedo](https://www.linkedin.com/in/juan-pablo-0764ba247/)
