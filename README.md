@@ -30,11 +30,11 @@ Tecnologias utilizadas:
 
 O projeto é desenvolvido de forma incremental, envolvendo definição de requisitos, testes, validação funcional, documentação e controle de versões.
 
-### AgroControl
+### [AgroControl](https://github.com/juanpablooliveradeazevedo/agrocontrole-scm)
 
-Projeto acadêmico desenvolvido em Python durante a graduação em Análise e Desenvolvimento de Sistemas.
+Protótipo acadêmico em Python desenvolvido para prática de Git, GitHub e Gerenciamento de Configuração de Software durante a graduação em Análise e Desenvolvimento de Sistemas.
 
-Utilizado também para prática de Git, GitHub e gerenciamento de configuração de software.
+Projeto utilizado para praticar controle de versões, commits e evolução incremental de software.
 
 ## 📚 Atualmente estudando
 
