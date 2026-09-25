@@ -20,15 +20,15 @@ Tenho interesse em conhecer diferentes áreas de tecnologia e ampliar minha base
 
 ## 🚀 Projetos em destaque
 
-### Configurador TI
+### [Configurador TI](https://github.com/juanpablooliveradeazevedo/Configurador-TI)
 
-Aplicação desktop em desenvolvimento voltada para diagnóstico, inventário, manutenção e administração de computadores Windows.
+Aplicação desktop para Windows em desenvolvimento, voltada para diagnóstico, inventário, automação, monitoramento e apoio à administração de ambientes de TI.
 
-Tecnologias utilizadas:
+Tecnologias principais:
 
 `Python` `PyQt6` `PowerShell` `WMI/CIM` `SQLite` `PyInstaller`
 
-O projeto é desenvolvido de forma incremental, envolvendo definição de requisitos, testes, validação funcional, documentação e controle de versões.
+O projeto é desenvolvido de forma incremental, envolvendo requisitos, arquitetura, testes, QA, documentação e controle de versões.
 
 ### [AgroControl](https://github.com/juanpablooliveradeazevedo/agrocontrole-scm)
 
